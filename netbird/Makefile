@@ -6,7 +6,7 @@ PKG_RELEASE:=99
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-fwr.tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/MichaelUray/netbird/tar.gz/d0aa79eebf102ecfcccbbb73fb1bdd8547dbc26e?
-PKG_HASH:=019449719d236f02febe854b3ee0f4876ca07107196a418bee8f7b9bb8b7285e
+PKG_HASH:=e4df609ba0d1d23fa452461c72e3fc7582a6ba57211b0d53d4a29cbdc043e575
 
 PKG_MAINTAINER:=Oskari Rauta <oskari.rauta@gmail.com>
 PKG_LICENSE:=BSD-3-Clause
