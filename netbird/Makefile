@@ -1,10 +1,10 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=netbird
-PKG_VERSION:=0.67.3-fwr1
-PKG_RELEASE:=1
+PKG_VERSION:=0.67.3
+PKG_RELEASE:=99
 
-PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
+PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION)-fwr.tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/MichaelUray/netbird/tar.gz/d0aa79eebf102ecfcccbbb73fb1bdd8547dbc26e?
 PKG_HASH:=e4df609ba0d1d23fa452461c72e3fc7582a6ba57211b0d53d4a29cbdc043e575
 
